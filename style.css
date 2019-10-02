@@ -1,0 +1,43 @@
+* {
+	margin: 0%;
+	font-family: Helvetica; 
+}
+
+/* Esto es para el titulo */
+h1 {
+	padding-top: 5%;
+	padding-bottom: 25%;
+	text-align: center; 
+	background-image: url("https://www.guiadelnino.com/var/guiadelnino.com/storage/images/juegos-y-fiestas/canciones-infantiles/aprender-a-contar-cantando-yo-tenia-10-perritos/7609482-7-esl-ES/aprender-a-contar-cantando-yo-tenia-10-perritos_w1140.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	color: gray;
+}
+
+h2 {
+	padding-top: 2%;
+	padding-left: 2%;
+}
+
+form {
+	padding-top: 2%;
+	padding-left: 2%;
+	padding-bottom: 20%;	
+}
+
+.input {
+	padding-bottom: 1%;
+}
+
+.us {
+	padding-top: 2%;
+	padding-left: 2%;
+	padding-bottom: 1%;
+}
+
+.paragraph {
+	padding-left: 2%;	
+	padding-right: 5%;
+	padding-bottom: 2%;
+}
